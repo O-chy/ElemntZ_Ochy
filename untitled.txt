@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ElemtZ_Ochy Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Add your custom CSS styles here */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to ElemtZ_Ochy Portfolio</h1>
+        <p>Hello, I'm Oikkay, a web developer and designer.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#education">Education</a></li>
+            <!-- Add more sections as needed -->
+        </ul>
+    </nav>
+
+    <main>
+        <section id="projects">
+            <h2>Projects</h2>
+            <!-- Add your projects here -->
+        </section>
+
+        <section id="skills">
+            <h2>Skills</h2>
+            <!-- Add your skills here -->
+        </section>
+
+        <section id="education">
+            <h2>Education</h2>
+            <!-- Add your education details here -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 ElemtZ_Ochy Portfolio | Designed and Developed by Oikkay</p>
+    </footer>
+
+    <script>
+        // Add your custom JavaScript for animations here
+    </script>
+</body>
+</html>
